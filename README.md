@@ -1,5 +1,5 @@
 # BookList
-> Simple application for adding, sorting and displaying book lists
+Simple application for adding, sorting and displaying book lists
 
 ## Table of contents
 * [General info](#general-info)
@@ -9,6 +9,7 @@
 ## General info
 Project made for subject Programming Basics on the 1. semester on Warsaw University of Technology
 
+Task description (unfortunately only in polish):
 ![Task description](./img/task.png)
 
 ## Technologies
